@@ -17,6 +17,7 @@ import java.io.File
 
 apply {
     plugin<AppPlugin>()
+    plugin("kotlin")
     plugin<KotlinAndroidPluginWrapper>()
 }
 

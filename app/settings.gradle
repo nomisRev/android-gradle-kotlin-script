@@ -1,1 +1,1 @@
-rootProject.buildFileName = 'build.gradle.kts'
+project.buildFileName = 'build.gradle.kts'
